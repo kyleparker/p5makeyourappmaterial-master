@@ -6,9 +6,18 @@ import android.view.animation.Interpolator;
 import android.util.Log;
 
 /**
+ * Animation utilities for object transitions
+ *
  * Created by kyleparker on 11/17/2015.
  */
 public class AnimationUtils {
+    /**
+     * Code based on example from "Android RecyclerView Animation Example: Material Design Tutorials"
+     * https://www.youtube.com/watch?v=e8ifO1m9g_Q
+     *
+     * @param holder
+     * @param scrollDown
+     */
     public static void animate(RecyclerView.ViewHolder holder, boolean scrollDown) {
 //        holder.itemView.setTranslationY(scrollDown ? offset : -offset);
 //        holder.itemView.setAlpha(0.85f);
