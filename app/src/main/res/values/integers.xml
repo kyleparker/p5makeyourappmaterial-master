@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="articles_per_row">2</integer>
+    <integer name="articles_per_row">1</integer>
 </resources>
