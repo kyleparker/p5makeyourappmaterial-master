@@ -1,4 +1,4 @@
-How Will I Complete this Project?
+# How Will I Complete this Project?
 
 You will improve an app for this project:
 
@@ -7,7 +7,7 @@ The app is currently functional, and work in most cases for most users.
 
 Your job will be to take the user feedback in the UI Review node, and implement changes that will improve the UI and make it conform to Material Design.
 
-Required Tasks
+# Required Tasks
 
 * Download a zip file of the app.
 * Read the UI Review in the next node.
@@ -16,7 +16,7 @@ specifically at issues called out in the UI Review.
 * Execute the improvements!
 * Make a single GitHub repo with your code for both apps, and submit through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 
-User Feedback for XYZ Reader:
+# User Feedback for XYZ Reader:
 
 Lyla says:
 
