@@ -9,14 +9,12 @@ Your job will be to take the user feedback in the UI Review node, and implement 
 
 Required Tasks
 
-<ul>
-<li>Download a zip file of the app.</li>
-<li>Read the UI Review in the next node.</li>
-<li>Spend time exploring the current state of the apps, looking for ways they could be improved. Each app will need multiple improvements. Be sure to look
-specifically at issues called out in the UI Review.</li>
-<li>Execute the improvements!</li>
-<li>Make a single GitHub repo with your code for both apps, and submit through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.</li>
-</ul>
+* Download a zip file of the app.
+* Read the UI Review in the next node.
+* Spend time exploring the current state of the apps, looking for ways they could be improved. Each app will need multiple improvements. Be sure to look
+specifically at issues called out in the UI Review.
+* Execute the improvements!
+* Make a single GitHub repo with your code for both apps, and submit through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 
 User Feedback for XYZ Reader:
 
