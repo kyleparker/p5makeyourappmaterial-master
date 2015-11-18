@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="content_select_app">Select an application</string>
+    <string name="content_share_message">I thought you would enjoy reading this article by %1$s&lt;br /&gt;&lt;br /&gt;%2$s</string>
+    <string name="content_share_subject">A must read: %1$s</string>
+
+    <string name="content_device_offline">Data connection unavailable</string>
+    <string name="content_empty_items">Oops - the article list is empty. Swipe to refresh.</string>
+    <string name="dialog_loading">Loading&#8230;</string>
+    <string name="dialog_loading_articles">Loading articles&#8230;</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="article_image_height">224dp</dimen>
+
+    <dimen name="cardview_height">344dp</dimen>
+    <dimen name="cardview_corner_radius">0dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="elevation_fab_default">6dp</dimen>
+    <dimen name="elevation_fab_pressed">12dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_1_double">32dp</dimen>
+    <dimen name="keyline_1_half">8dp</dimen>
+    <dimen name="keyline_1_quarter">4dp</dimen>
+
+    <dimen name="line_spacing">8dp</dimen>
+
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_subtitle">16sp</dimen>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="keyline_1">24dp</dimen>
+    <dimen name="keyline_1_half">12dp</dimen>
+</resources>

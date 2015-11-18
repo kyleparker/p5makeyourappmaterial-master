@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="article_image_height">160dp</dimen>
+
+    <dimen name="cardview_height">288dp</dimen>
+</resources>

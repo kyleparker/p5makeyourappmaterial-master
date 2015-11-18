@@ -1,0 +1,1 @@
+include ':app', ':material-dialogs-0.7.8.0'
